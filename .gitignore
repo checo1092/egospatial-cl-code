@@ -1,0 +1,38 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.env.*
+*.token
+*.key
+
+# Large generated data and experiment outputs
+data/
+datasets/
+outputs/
+results/
+checkpoints/
+runs/
+wandb/
+mlruns/
+*.tar
+*.tar.gz
+*.zip
+*.npy
+*.npz
+*.pth
+*.pt
+*.ckpt
+
+# Local machine artifacts
+.DS_Store
+Thumbs.db
+*.log

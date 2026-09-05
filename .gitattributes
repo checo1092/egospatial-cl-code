@@ -1,0 +1,9 @@
+*.md text
+*.txt text
+*.yml text
+*.yaml text
+*.json text
+*.csv text
+*.cff text
+LICENSE text
+VERSION text

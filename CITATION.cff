@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this repository, please cite the archived code release and the associated dataset DOI."
-title: "Synthetic Driving Domain-Shift Code"
+title: "EgoSpatial-CL Code"
 authors:
   - family-names: "Delgadillo Marin"
     given-names: "Sergio"
@@ -13,4 +13,4 @@ keywords:
   - domain shift
   - continual learning
   - reproducibility
-abstract: "Code and documentation for reproducing a multimodal synthetic driving dataset for domain shift and continual learning."
+abstract: "Code and documentation for reproducing EgoSpatial-CL, a spatially controlled multimodal dataset for continual learning in simulated autonomous navigation."

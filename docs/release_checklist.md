@@ -6,6 +6,7 @@
 - [ ] Push this scaffold.
 - [ ] Confirm repository URL.
 - [ ] Add repository URL to `CITATION.cff`.
+- [ ] Use `checo1092/egospatial-cl-code` as the code repository unless a later conflict is found.
 
 ## Before Adding Generation Scripts
 

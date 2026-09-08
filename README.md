@@ -1,10 +1,10 @@
-# Synthetic Driving Domain-Shift Code
+# EgoSpatial-CL Code
 
 This repository contains the code and documentation used to reproduce the dataset release:
 
-**A Multimodal Synthetic Driving Dataset for Domain Shift and Continual Learning**
+**EgoSpatial-CL: A Spatially Controlled Multimodal Dataset for Continual Learning in Simulated Autonomous Navigation**
 
-The dataset is intended for public release as `synthetic-driving-domain-shift` version `v1.0.0`.
+The dataset is intended for public release as `egospatial-cl` version `v1.0.0`.
 
 ## Status
 

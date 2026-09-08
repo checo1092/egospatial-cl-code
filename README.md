@@ -6,6 +6,8 @@ This repository contains the code and documentation used to reproduce the datase
 
 The dataset is intended for public release as `egospatial-cl` version `v1.0.0`.
 
+Code repository: https://github.com/checo1092/egospatial-cl-code
+
 ## Status
 
 This repository is being prepared for the Scientific Data dataset release. The initial public repository contains only the audited structure and release documentation. Dataset-generation scripts will be added after path, dependency, and licensing review.

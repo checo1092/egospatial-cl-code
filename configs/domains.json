@@ -1,0 +1,61 @@
+{
+  "schema_version": "1.0",
+  "domains": [
+    {
+      "condition": "clear",
+      "domain_id": 0,
+      "domain_name": "clear__NPC00_none",
+      "npc_variant": "NPC00_none",
+      "num_vehicles": 0,
+      "num_walkers": 0
+    },
+    {
+      "condition": "night",
+      "domain_id": 1,
+      "domain_name": "night__NPC00_none",
+      "npc_variant": "NPC00_none",
+      "num_vehicles": 0,
+      "num_walkers": 0
+    },
+    {
+      "condition": "fog",
+      "domain_id": 2,
+      "domain_name": "fog__NPC00_none",
+      "npc_variant": "NPC00_none",
+      "num_vehicles": 0,
+      "num_walkers": 0
+    },
+    {
+      "condition": "hardrain",
+      "domain_id": 3,
+      "domain_name": "hardrain__NPC00_none",
+      "npc_variant": "NPC00_none",
+      "num_vehicles": 0,
+      "num_walkers": 0
+    },
+    {
+      "condition": "clear",
+      "domain_id": 4,
+      "domain_name": "clear__NPC11_veh_high",
+      "npc_variant": "NPC11_veh_high",
+      "num_vehicles": 50,
+      "num_walkers": 0
+    },
+    {
+      "condition": "hardrain",
+      "domain_id": 5,
+      "domain_name": "hardrain__NPC11_veh_high",
+      "npc_variant": "NPC11_veh_high",
+      "num_vehicles": 50,
+      "num_walkers": 0
+    },
+    {
+      "condition": "clear",
+      "domain_id": 6,
+      "domain_name": "clear__NPC31_both_high",
+      "npc_variant": "NPC31_both_high",
+      "num_vehicles": 50,
+      "num_walkers": 200
+    }
+  ]
+}

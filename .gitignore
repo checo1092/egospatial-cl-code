@@ -36,3 +36,11 @@ mlruns/
 .DS_Store
 Thumbs.db
 *.log
+
+# CARLA local assets not vendored in this repository
+AdditionalMaps_0.9.15.tar.gz
+carla-*.whl
+
+# Local release notes
+release_checklist.md
+local_notes/

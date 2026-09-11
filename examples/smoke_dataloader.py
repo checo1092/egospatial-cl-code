@@ -1,6 +1,11 @@
 
 #!/usr/bin/env python3
-"""Smoke-test the EgoSpatial-CL PyTorch loader on an extracted dataset copy."""
+"""Smoke-test the EgoSpatial-CL PyTorch loader on an extracted dataset copy.
+
+This script checks that a downloaded and extracted release can be indexed and
+batched with the example PyTorch Dataset. It does not run CARLA or regenerate
+dataset episodes.
+"""
 
 from __future__ import annotations
 

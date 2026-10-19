@@ -293,7 +293,7 @@ class LocalViewer:
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--dataset-root", type=Path, required=True, help="Extraction root containing Town/split/episode directories")
-    parser.add_argument("--manifest", type=Path, required=True, help="Public benchmark_manifest.json")
+    parser.add_argument("--manifest", type=Path, required=True, help="Public dataset_manifest.json")
     parser.add_argument("--town")
     parser.add_argument("--split", choices=("train", "val", "test"))
     parser.add_argument("--domain-name")

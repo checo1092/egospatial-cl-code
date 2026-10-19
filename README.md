@@ -30,7 +30,7 @@ The frozen v1.0.0 dataset contains 7 towns, 7 compact domains, 10 spatial slots 
 
 ```bash
 python validation/validate_release.py \
-  --manifest /path/to/benchmark_manifest.json \
+  --manifest /path/to/dataset_manifest.json \
   --shards-manifest /path/to/shards_manifest.csv
 
 python validation/verify_checksums.py \
@@ -41,7 +41,7 @@ python validation/verify_checksums.py \
 ## Loading Example
 
 `examples/pytorch_dataset.py` provides a frame-level PyTorch `Dataset` for an
-extracted EgoSpatial-CL copy. It reads the public `benchmark_manifest.json`,
+extracted EgoSpatial-CL copy. It reads the public `dataset_manifest.json`,
 filters by split, town, and domain, loads RGB, semantic-segmentation, and/or
 LiDAR modalities, and returns control targets from `state.csv`.
 
@@ -50,7 +50,7 @@ Run a minimal loader smoke test with:
 ```bash
 python examples/smoke_dataloader.py \
   --dataset-root /path/to/extracted/egospatial-cl \
-  --manifest /path/to/benchmark_manifest.json \
+  --manifest /path/to/dataset_manifest.json \
   --split train \
   --frame-stride 100 \
   --batch-size 2
@@ -72,7 +72,7 @@ python -m pip install -r examples/requirements-viewer.txt
 
 python examples/view_dataset.py \
   --dataset-root /path/to/extracted/egospatial-cl \
-  --manifest /path/to/benchmark_manifest.json
+  --manifest /path/to/dataset_manifest.json
 ```
 
 See [visualization instructions](docs/visualization.md) for episode selection,
@@ -99,3 +99,7 @@ python dataset_generation/run_domain_schedule.py \
 Code in this repository is released under the MIT License unless otherwise stated. Dataset files are released separately under CC BY 4.0. CARLA and other third-party software remain governed by their respective upstream licenses.
 
 Dataset-derived images and animations in `docs/assets/` are licensed under CC BY 4.0. Source: [EgoSpatial-CL](https://huggingface.co/datasets/checo1092/egospatial-cl).
+
+## Publication figures
+
+See [figure reproduction and CLIP characterization](docs/publication_figures.md) for the weather/traffic mosaic, trajectories by split, and characterization diagram.

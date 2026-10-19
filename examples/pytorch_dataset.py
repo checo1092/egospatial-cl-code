@@ -2,7 +2,7 @@
 #!/usr/bin/env python3
 """PyTorch frame-level loader for an extracted EgoSpatial-CL dataset copy.
 
-The loader reads the public benchmark manifest, indexes episode-level
+The loader reads the public dataset manifest, indexes episode-level
 `index.csv` and `state.csv` files, and returns frame samples with selected
 modalities plus control targets. It is intended as a minimal reuse example, not
 as a training framework.

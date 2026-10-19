@@ -18,7 +18,7 @@ def read_rows(path: Path):
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--root", required=True, type=Path, help="Extracted dataset root containing Town/split/episode dirs.")
-    parser.add_argument("--reference-manifest", type=Path, help="Optional published benchmark_manifest.json.")
+    parser.add_argument("--reference-manifest", type=Path, help="Optional published dataset_manifest.json.")
     parser.add_argument("--output", required=True, type=Path)
     args = parser.parse_args()
 

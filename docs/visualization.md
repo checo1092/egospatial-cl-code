@@ -33,7 +33,7 @@ and a desktop display. PNG/GIF export works without a display.
 
 ## Input
 
-Download the public `benchmark_manifest.json` and at least one shard, verify its
+Download the public `dataset_manifest.json` and at least one shard, verify its
 SHA256 checksum, and extract it using the release instructions. Pass the extraction
 root containing this structure:
 
@@ -59,7 +59,7 @@ available episodes listed in the manifest. The unsharded generation layout
 ```bash
 python examples/view_dataset.py \
   --dataset-root /path/to/extracted/egospatial-cl \
-  --manifest /path/to/benchmark_manifest.json \
+  --manifest /path/to/dataset_manifest.json \
   --town Town06 \
   --split val \
   --episode Town06/val/episode_0008
@@ -105,14 +105,14 @@ The CLI exports without opening a window:
 ```bash
 python examples/view_dataset.py \
   --dataset-root /path/to/extracted/egospatial-cl \
-  --manifest /path/to/benchmark_manifest.json \
+  --manifest /path/to/dataset_manifest.json \
   --episode Town06/val/episode_0008 \
   --sample 120 \
   --export outputs/preview.png
 
 python examples/view_dataset.py \
   --dataset-root /path/to/extracted/egospatial-cl \
-  --manifest /path/to/benchmark_manifest.json \
+  --manifest /path/to/dataset_manifest.json \
   --episode Town06/val/episode_0008 \
   --sample 120 \
   --count 24 \
@@ -144,7 +144,7 @@ Matplotlib GUI backend installed. For example, when Tk is installed:
 ```bash
 MPLBACKEND=TkAgg python examples/view_dataset.py \
   --dataset-root /path/to/extracted/egospatial-cl \
-  --manifest /path/to/benchmark_manifest.json \
+  --manifest /path/to/dataset_manifest.json \
   --episode Town06/val/episode_0008
 ```
 

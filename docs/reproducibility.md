@@ -3,7 +3,7 @@
 
 Use the dataset repository metadata to validate the frozen public release:
 
-- `benchmark_manifest.json`
+- `dataset_manifest.json`
 - `spatial_splits.json`
 - `shards_manifest.csv`
 - `checksums.sha256`
@@ -12,7 +12,7 @@ Validate release metadata:
 
 ```bash
 python validation/validate_release.py \
-  --manifest /path/to/benchmark_manifest.json \
+  --manifest /path/to/dataset_manifest.json \
   --shards-manifest /path/to/shards_manifest.csv
 ```
 
@@ -20,7 +20,7 @@ Validate one downloaded shard:
 
 ```bash
 python validation/validate_release.py \
-  --manifest /path/to/benchmark_manifest.json \
+  --manifest /path/to/dataset_manifest.json \
   --tar /path/to/shards/Town06/val/Town06_val_000000.tar
 ```
 

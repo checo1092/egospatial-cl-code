@@ -103,3 +103,11 @@ Dataset-derived images and animations in `docs/assets/` are licensed under CC BY
 ## Publication figures
 
 See [figure reproduction and CLIP characterization](docs/publication_figures.md) for the weather/traffic mosaic, trajectories by split, and characterization diagram.
+
+## Additional authors and funding
+
+- Elsa Rubio-Espino: [ORCID 0000-0002-3217-908X](https://orcid.org/0000-0002-3217-908X); SIP 20260247.
+- Victor H. Ponce-Ponce: [ORCID 0000-0001-5699-0478](https://orcid.org/0000-0001-5699-0478); SIP 20260286.
+- Jesús Yaljá Montiel-Pérez: [ORCID 0000-0002-0214-1080](https://orcid.org/0000-0002-0214-1080); SIP 20261063 and 20260177.
+
+Elsa Rubio-Espino received support through project SIP 20260247; Victor H. Ponce-Ponce through project SIP 20260286; and Jesús Yaljá Montiel-Pérez through projects SIP 20261063 and SIP 20260177, funded by the Instituto Politécnico Nacional.

@@ -2,7 +2,6 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite the archived code release and the associated dataset DOI."
 title: "EgoSpatial-CL Code"
 authors:
-  # All authors contributed equally to this work.
   - family-names: "Delgadillo Marín"
     given-names: "Sergio"
     orcid: "https://orcid.org/0009-0001-1867-5984"
@@ -18,6 +17,15 @@ authors:
     orcid: "https://orcid.org/0000-0002-3682-8585"
     email: "ezamorag@cic.ipn.mx"
     affiliation: "Centro de Investigación en Computación, Instituto Politécnico Nacional, Ciudad de México, México"
+  - family-names: "Rubio-Espino"
+    given-names: "Elsa"
+    orcid: "https://orcid.org/0000-0002-3217-908X"
+  - family-names: "Ponce-Ponce"
+    given-names: "Victor H."
+    orcid: "https://orcid.org/0000-0001-5699-0478"
+  - family-names: "Montiel-Pérez"
+    given-names: "Jesús Yaljá"
+    orcid: "https://orcid.org/0000-0002-0214-1080"
 # Repository contact
 contact:
   - family-names: "Delgadillo Marín"

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this repository, please cite the archived code release and the associated dataset DOI."
+message: "If you use this software, please cite it using the authors, title, version and repository URL below, and cite the associated dataset."
 title: "EgoSpatial-CL Code"
 authors:
   - family-names: "Delgadillo-Marín"

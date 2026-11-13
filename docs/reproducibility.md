@@ -78,4 +78,4 @@ python dataset_generation/run_episodes.py \
   --spawn-index 97
 ```
 
-The Dataset Viewer is intentionally disabled for v1.0.0 because the release uses episode-level tar shards rather than a WebDataset-native sample layout. Do not repack the frozen release solely to enable the viewer.
+The Dataset Viewer is intentionally disabled for v1.0.0 because the release uses episode-level tar shards rather than a WebDataset-native sample layout.

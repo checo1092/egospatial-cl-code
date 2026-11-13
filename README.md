@@ -9,6 +9,8 @@ Dataset repository: https://huggingface.co/datasets/checo1092/egospatial-cl
 
 Dataset DOI: https://doi.org/10.57967/hf/11602
 
+Code DOI (v1.0.0): https://doi.org/10.5281/zenodo.24203161
+
 ## Scope
 
 This repository contains the public release code needed to understand, regenerate, validate, and reuse the EgoSpatial-CL v1.0.0 dataset. It intentionally excludes generated dataset shards, experiment outputs, checkpoints, logs, local notes, and large third-party simulator assets.

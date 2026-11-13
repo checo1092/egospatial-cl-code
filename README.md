@@ -106,20 +106,18 @@ See [figure reproduction and CLIP characterization](docs/publication_figures.md)
 
 ## Authors
 
-- Sergio Delgadillo Marín: [ORCID 0009-0001-1867-5984](https://orcid.org/0009-0001-1867-5984).
-- Erik Zamora Gómez: [ORCID 0000-0002-3682-8585](https://orcid.org/0000-0002-3682-8585).
+- Sergio Delgadillo-Marín: [ORCID 0009-0001-1867-5984](https://orcid.org/0009-0001-1867-5984).
+- Erik Zamora: [ORCID 0000-0002-3682-8585](https://orcid.org/0000-0002-3682-8585).
 - Elsa Rubio-Espino: [ORCID 0000-0002-3217-908X](https://orcid.org/0000-0002-3217-908X).
 - Victor H. Ponce-Ponce: [ORCID 0000-0001-5699-0478](https://orcid.org/0000-0001-5699-0478).
 - Jesús Yaljá Montiel-Pérez: [ORCID 0000-0002-0214-1080](https://orcid.org/0000-0002-0214-1080).
-- Juan Humberto Sossa Azuela: [ORCID 0000-0002-0521-4898](https://orcid.org/0000-0002-0521-4898).
+- Humberto Sossa: [ORCID 0000-0002-0521-4898](https://orcid.org/0000-0002-0521-4898).
 
 All authors are affiliated with Centro de Investigación en Computación, Instituto Politécnico Nacional, Ciudad de México, México.
 
-Corresponding author: Juan Humberto Sossa Azuela (hsossa@cic.ipn.mx).
-Dataset and code contact: Sergio Delgadillo Marín (sdelgadillom2025@cic.ipn.mx).
+Corresponding author: Humberto Sossa (hsossa@cic.ipn.mx).
+Dataset and code contact: Sergio Delgadillo-Marín (sdelgadillom2025@cic.ipn.mx).
 
 ## Funding
 
-Sergio Delgadillo Marín receives a national postgraduate scholarship from the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI), under the Convocatoria Becas Nacionales para Estudios de Posgrado 2025-1, for doctoral studies at the Instituto Politécnico Nacional. Erik Zamora received support for this research from the Instituto Politécnico Nacional through projects SIP20253734 and SIP-IND-2026-0031.
-
-Elsa Rubio-Espino received support through project SIP 20260247; Victor H. Ponce-Ponce through project SIP 20260286; and Jesús Yaljá Montiel-Pérez through projects SIP 20261063 and SIP 20260177, funded by the Instituto Politécnico Nacional.
+Sergio Delgadillo-Marín receives a national postgraduate scholarship from the Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI), under the Convocatoria Becas Nacionales para Estudios de Posgrado 2025-1, for doctoral studies at the Instituto Politécnico Nacional. Erik Zamora received support for this research from the Instituto Politécnico Nacional through projects SIP20253734 and SIP-IND-2026-0031. Elsa Rubio-Espino received support through project SIP 20260247; Victor H. Ponce-Ponce through project SIP 20260286; and Jesús Yaljá Montiel-Pérez through projects SIP 20261063 and SIP 20260177, funded by the Instituto Politécnico Nacional.

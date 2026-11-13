@@ -108,6 +108,56 @@ Dataset-derived images and animations in `docs/assets/` are licensed under CC BY
 
 See [figure reproduction and CLIP characterization](docs/publication_figures.md) for the weather/traffic mosaic, trajectories by split, and characterization diagram.
 
+## How to cite
+
+If you use the dataset, please cite the dataset reference below. If you also use the collection, validation, loading or visualization tools in this repository, please cite the software as well.
+
+### Software
+
+Delgadillo-Marín, S., Zamora, E., Rubio-Espino, E., Ponce-Ponce, V. H., Montiel-Pérez, J. Y., & Sossa, H. (2026). *EgoSpatial-CL Code* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.24203161
+
+```bibtex
+@misc{delgadillo_marin_2026_egospatial_code,
+  author = {Delgadillo-Marín, Sergio and
+            Zamora, Erik and
+            Rubio-Espino, Elsa and
+            Ponce-Ponce, Victor H. and
+            Montiel-Pérez, Jesús Yaljá and
+            Sossa, Humberto},
+  title = {{EgoSpatial-CL Code}},
+  year = {2026},
+  version = {1.0.0},
+  publisher = {Zenodo},
+  doi = {10.5281/zenodo.24203161},
+  url = {https://doi.org/10.5281/zenodo.24203161},
+  note = {Computer software, version 1.0.0}
+}
+```
+
+GitHub's **Cite this repository** menu also provides a software citation using [CITATION.cff](CITATION.cff).
+
+### Dataset
+
+Delgadillo-Marín, S., Zamora, E., Rubio-Espino, E., Ponce-Ponce, V. H., Montiel-Pérez, J. Y., & Sossa, H. (2026). *egospatial-cl* (Version 1.0.0) [Data set]. Hugging Face. https://doi.org/10.57967/hf/11602
+
+```bibtex
+@misc{delgadillo_marin_2026_egospatial_dataset,
+  author = {Delgadillo-Marín, Sergio and
+            Zamora, Erik and
+            Rubio-Espino, Elsa and
+            Ponce-Ponce, Victor H. and
+            Montiel-Pérez, Jesús Yaljá and
+            Sossa, Humberto},
+  title = {{egospatial-cl}},
+  year = {2026},
+  version = {1.0.0},
+  publisher = {Hugging Face},
+  doi = {10.57967/hf/11602},
+  url = {https://doi.org/10.57967/hf/11602},
+  note = {Data set, version 1.0.0}
+}
+```
+
 ## Authors
 
 - Sergio Delgadillo-Marín: [ORCID 0009-0001-1867-5984](https://orcid.org/0009-0001-1867-5984).
